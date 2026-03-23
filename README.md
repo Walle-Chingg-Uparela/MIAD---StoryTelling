@@ -1,6 +1,6 @@
 # MIAD -  Universidad de los Andes
 
-![Portada de MIAD](MIAD_BANER.png)
+![Portada de MIAD](MIADBANER.jpg)
 
 Hola, este es mi espacio de MIAD, la maestria en inteligenica analitica de datos que estoy cursando en la universidad de los Andes , aqui encontraras:
 - Diseños de dashboards y paginas
