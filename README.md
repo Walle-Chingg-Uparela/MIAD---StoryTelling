@@ -1,3 +1,6 @@
 # MIAD -  Universidad de los Andes
 
-Bienvenido a la sección del curso de StoryTelling , aqui encontraras diseños de dashboards en Power BI como en HTML para la visualización de datos
+Hola, este es mi espacio de MIAD, la maestria en inteligenica analitica de datos que estoy cursando en la universidad de los Andes , aqui encontraras:
+- Diseños de dashboards y paginas
+- Codigo para entrenamiento de modelos
+- Documentación de los proyectos para entendimiento de las actividades
