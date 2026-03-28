@@ -46,7 +46,7 @@ Se desarrollo un dashboar interactivo en power BI  compuesto por:
 
 ## DashBoard
 
-
+![Dashboard2](Dashboard_2.jpg)
 
 ## Conclusiones
 
