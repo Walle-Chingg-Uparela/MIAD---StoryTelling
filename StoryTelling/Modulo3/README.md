@@ -6,12 +6,12 @@ Para esta actividad se desarrolló un dashboard en Power BI orientado al anális
 
 La base de datos utilizada proviene de una encuesta realizada en el año 2021 a un grupo de profesionales de diferentes sectores, lo que permite explorar tendencias salariales desde una perspectiva global y con ella se buscaba responder a las siguientes preguntas.
 
-## Preguntas de análisis
+### Preguntas de análisis
 
-¿ cómo se distribuyen geograficamente los encuestados?
-¿ Qué industrias concentran la mayor cantidad de profesionales dentro de la muestra?
-¿ Qué industria presenta el mayor salario promedio anual ?
-¿ Existe relación entre la cantidad de encuestados por industria y el nivel salarial promedio?
+- ¿Cómo se distribuyen geográficamente los encuestados?
+- ¿Qué industrias concentran la mayor cantidad de profesionales?
+- ¿Qué industria presenta el mayor salario promedio?
+- ¿Existe relación entre cantidad de encuestados y salario?
 
 El dashboard construido permite:
 
@@ -50,7 +50,7 @@ Se desarrollo un dashboar interactivo en power BI  compuesto por:
 
 ## Conclusiones
 
-- Existe una alta concentración entre algunos paises , destacando Estados Unidos
+- Se identifica una alta concentración de encuestados en Estados Unidos, lo que puede introducir un sesgo geográfico en el análisis global.
 - La industria de la tecnología presenta un mayor nivel de participación por parte de los encuestados
 - La industria que cuenta con un mayor salario promedio anual es la de finanzas  y contabilidad
 - Luego entonces con los 2 indices anteriores se puede decir que no existe una relación entre la canitdad de encuestados por industrias y el nivel salarial ya que industrias con menos encuestados poseen un salario más grande)
